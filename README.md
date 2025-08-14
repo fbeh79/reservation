@@ -50,6 +50,4 @@ php artisan key:generate
 
 php artisan migrate
 
-مقدار دهی دیتا بیس
-
-
+مقدار دهی دیتابیس
